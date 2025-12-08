@@ -21,8 +21,7 @@ Key features:
 
 ## Screenshots/demo video link :- https://drive.google.com/file/d/1i6OjjyVSmqx5lwk7FESP0eWbqTP26xMM/view?usp=drivesdk
 
-## Deployed Project :- https://mgx-khgihmka22.mgx.world
-
+## Deployed Project :- https://skillink-iota.vercel.app/
 ## Project Report :- https://drive.google.com/file/d/1fQUeZptCjr1msxjQbcHqqWcuPXdzojOu/view?usp=sharing
 
 ## Setup & Installation
